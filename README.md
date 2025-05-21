@@ -28,3 +28,13 @@ The system implements a 4-stage pipeline:
 
 ```bash
 pip install -r library_vers.txt
+
+
+## Usage
+
+### Quick Start
+To process a single image:
+
+```bash
+python main.py --image_path=/path/to/your/image.jpg
+
