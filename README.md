@@ -27,4 +27,4 @@ The system implements a 4-stage pipeline:
 - Other dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r library_vers.txt
